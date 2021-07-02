@@ -1,0 +1,14 @@
+/* CSS Document */
+body {
+	font-family: Caeser Constantia, "Lucidia Bright";
+		
+	background-image: url("../fireBG.gif");
+}
+li a {  
+	background-image: url("../rainBG.gif");
+	font-size: 50px;
+	text-transform: uppercase;
+	text-align: match-parent;
+	border: 3px solid green;
+  	padding: 30px;
+}

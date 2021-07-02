@@ -1,0 +1,63 @@
+/* CSS Document */
+	
+body {
+	font-family: monaco, monospace;
+	background-image: url("../tileBG.png");
+}
+
+asteroidsign {
+	position: relative;
+	left: 100px
+}
+
+ul {
+
+	overflow: hidden;
+	background-image: url("../fireBG.gif");
+	top: 0;
+	border-style: solid;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+
+li a {
+	display: block;
+	color: white;
+	text-align: center; 
+
+	text-decoration: none;
+	font-size: 20px;
+
+}
+
+li a:hover {  
+	background-image: url("../fireBG.gif");
+	 
+}
+ol {
+
+	overflow: hidden;
+	background-image: url("../gpgif.gif");
+	top: 0;
+	border-style: solid;
+	margin-right: 1000px;
+	padding-left: 0px;
+	border-radius: 10px;
+}
+
+
+ol a {
+	display:block;
+	color: white;
+	text-align: left; 
+
+	text-decoration: none;
+	font-size: 20px;
+
+}
+
+ol a:hover {  
+	background-image: url("../gpgif.gif");
+	 
+}
